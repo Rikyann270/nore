@@ -7,74 +7,10 @@ import { Button } from "@/components/ui/button"
 import { useCart } from "@/lib/cart-context"
 import Footer from "@/components/footer"
 
+
 import Cart from "@/components/cart"
 
-const PRODUCTS = [
-  {
-    id: 1,
-    name: "Clarity Serum",
-    category: "Serums",
-    price: 58,
-    image: "/luxury-skincare-serum-bottle.jpg",
-    description: "Lightweight essence for radiant skin",
-  },
-  {
-    id: 2,
-    name: "Renewal Cream",
-    category: "Moisturizers",
-    price: 72,
-    image: "/luxury-skincare-cream-jar.jpg",
-    description: "Rich, restorative facial moisturizer",
-  },
-  {
-    id: 3,
-    name: "Gentle Cleanser",
-    category: "Cleansers",
-    price: 44,
-    image: "/luxury-skincare-cleanser.jpg",
-    description: "Soft gel cleanser for daily ritual",
-  },
-  {
-    id: 4,
-    name: "Essence Oil",
-    category: "Oils",
-    price: 65,
-    image: "/luxury-skincare-face-oil.jpg",
-    description: "Nourishing botanical oil blend",
-  },
-  {
-    id: 5,
-    name: "Night Mask",
-    category: "Masks",
-    price: 55,
-    image: "/luxury-skincare-night-mask.jpg",
-    description: "Deep restorative overnight treatment",
-  },
-  {
-    id: 6,
-    name: "Hydrating Toner",
-    category: "Toners",
-    price: 48,
-    image: "/luxury-skincare-toner.jpg",
-    description: "Balancing toner for all skin types",
-  },
-  {
-    id: 7,
-    name: "Eye Contour",
-    category: "Eye Care",
-    price: 62,
-    image: "/luxury-skincare-eye-cream.jpg",
-    description: "Delicate formula for eye area",
-  },
-  {
-    id: 8,
-    name: "Sunscreen SPF 50",
-    category: "Sun Care",
-    price: 52,
-    image: "/luxury-skincare-sunscreen.jpg",
-    description: "Lightweight daily protection",
-  },
-]
+const PRODUCTS = require("../products_db.json")
 
 const CATEGORIES = ["All", "Serums", "Moisturizers", "Cleansers", "Oils", "Masks", "Toners", "Eye Care", "Sun Care"]
 
@@ -130,7 +66,7 @@ export default function ShopPage() {
                 <p className="text-xs tracking-widest text-muted-foreground mb-2 uppercase">{product.category}</p>
                 <h3 className="text-lg font-light mb-1">{product.name}</h3>
                 <p className="text-sm text-muted-foreground mb-4">{product.description}</p>
-                <p className="text-lg font-light mb-4">${product.price}</p>
+                <p className="text-lg font-light mb-4">UGX{product.price}</p>
                 <Button
                   onClick={(e) => {
                     e.preventDefault()

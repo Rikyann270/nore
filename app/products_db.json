@@ -1,0 +1,387 @@
+
+[
+  {
+    "id": 1,
+    "name": "Clarity Serum",
+    "category": "Serums",
+    "price": 58,
+    "image": "/luxury-skincare-serum-bottle.jpg",
+    "description": "Lightweight essence for radiant skin"
+  },
+  {
+    "id": 2,
+    "name": "Renewal Cream",
+    "category": "Moisturizers",
+    "price": 72,
+    "image": "/luxury-skincare-cream-jar.jpg",
+    "description": "Rich, restorative facial moisturizer"
+  },
+  {
+    "id": 3,
+    "name": "Gentle Cleanser",
+    "category": "Cleansers",
+    "price": 44,
+    "image": "/luxury-skincare-cleanser.jpg",
+    "description": "Soft gel cleanser for daily ritual"
+  },
+  {
+    "id": 4,
+    "name": "Essence Oil",
+    "category": "Oils",
+    "price": 65,
+    "image": "/luxury-skincare-face-oil.jpg",
+    "description": "Nourishing botanical oil blend"
+  },
+  {
+    "id": 5,
+    "name": "Night Mask",
+    "category": "Masks",
+    "price": 55,
+    "image": "/luxury-skincare-night-mask.jpg",
+    "description": "Deep restorative overnight treatment"
+  },
+  {
+    "id": 6,
+    "name": "Hydrating Toner",
+    "category": "Toners",
+    "price": 48,
+    "image": "/luxury-skincare-toner.jpg",
+    "description": "Balancing toner for all skin types"
+  },
+  {
+    "id": 7,
+    "name": "Eye Contour",
+    "category": "Eye Care",
+    "price": 62,
+    "image": "/luxury-skincare-eye-cream.jpg",
+    "description": "Delicate formula for eye area"
+  },
+  {
+    "id": 8,
+    "name": "Sunscreen SPF 50",
+    "category": "Sun Care",
+    "price": 52,
+    "image": "/luxury-skincare-sunscreen.jpg",
+    "description": "Lightweight daily protection"
+  },
+  {
+    "id": 9,
+    "name": "Velvet Radiance Serum",
+    "category": "Serums",
+    "price": 68,
+    "image": "https://source.unsplash.com/800x600/?luxury,skincare,serum",
+    "description": "Silky formula to brighten and hydrate"
+  },
+  {
+    "id": 10,
+    "name": "Silk Renewal Moisturizer",
+    "category": "Moisturizers",
+    "price": 79,
+    "image": "https://source.unsplash.com/800x600/?luxury,skincare,cream",
+    "description": "Deeply moisturizing, fast-absorbing cream"
+  },
+  {
+    "id": 11,
+    "name": "Morning Dew Cleanser",
+    "category": "Cleansers",
+    "price": 39,
+    "image": "https://source.unsplash.com/800x600/?cleanser,skincare",
+    "description": "Gentle foaming wash for daily freshness"
+  },
+  {
+    "id": 12,
+    "name": "Botanical Glow Oil",
+    "category": "Oils",
+    "price": 74,
+    "image": "https://source.unsplash.com/800x600/?face,oil,skincare",
+    "description": "Light botanical oil for luminous skin"
+  },
+  {
+    "id": 13,
+    "name": "Overnight Repair Mask",
+    "category": "Masks",
+    "price": 59,
+    "image": "https://source.unsplash.com/800x600/?mask,skincare",
+    "description": "Overnight treatment for restored skin"
+  },
+  {
+    "id": 14,
+    "name": "Calming Mist Toner",
+    "category": "Toners",
+    "price": 36,
+    "image": "https://source.unsplash.com/800x600/?toner,mist,skincare",
+    "description": "Refreshing mist to soothe and balance"
+  },
+  {
+    "id": 15,
+    "name": "Brightening Eye Serum",
+    "category": "Eye Care",
+    "price": 66,
+    "image": "https://source.unsplash.com/800x600/?eye,cream,skincare",
+    "description": "Targets dark circles and puffiness"
+  },
+  {
+    "id": 16,
+    "name": "Daily Mineral SPF 30",
+    "category": "Sun Care",
+    "price": 49,
+    "image": "https://source.unsplash.com/800x600/?sunscreen,spf",
+    "description": "Mineral protection with a silky finish"
+  },
+  {
+    "id": 17,
+    "name": "Pure Exfoliant Scrub",
+    "category": "Exfoliants",
+    "price": 42,
+    "image": "https://source.unsplash.com/800x600/?exfoliant,scrub,skincare",
+    "description": "Gentle buffing for smooth texture"
+  },
+  {
+    "id": 18,
+    "name": "Hydra Mist Facial Spray",
+    "category": "Face Mists",
+    "price": 28,
+    "image": "https://source.unsplash.com/800x600/?facemist,skincare",
+    "description": "Instant hydration and glow on the go"
+  },
+  {
+    "id": 19,
+    "name": "Nutri Balm",
+    "category": "Balms",
+    "price": 34,
+    "image": "https://source.unsplash.com/800x600/?balm,skincare",
+    "description": "Multi-purpose balm for dry areas"
+  },
+  {
+    "id": 20,
+    "name": "Silken Body Oil",
+    "category": "Body Oils",
+    "price": 46,
+    "image": "https://source.unsplash.com/800x600/?body,oil,skincare",
+    "description": "Light oil for soft, glowing skin"
+  },
+  {
+    "id": 21,
+    "name": "Hand Therapy Cream",
+    "category": "Hand Care",
+    "price": 24,
+    "image": "https://source.unsplash.com/800x600/?hand,cream,skincare",
+    "description": "Rich, non-greasy hand repair cream"
+  },
+  {
+    "id": 22,
+    "name": "Lip Revival Balm",
+    "category": "Lip Care",
+    "price": 18,
+    "image": "https://source.unsplash.com/800x600/?lip,balm,skincare",
+    "description": "Hydrating balm for soft, supple lips"
+  },
+  {
+    "id": 23,
+    "name": "Glow Primer",
+    "category": "Primers",
+    "price": 38,
+    "image": "https://source.unsplash.com/800x600/?primer,makeup,skincare",
+    "description": "Blurs pores and creates luminous base"
+  },
+  {
+    "id": 24,
+    "name": "Cleansing Oil Melt",
+    "category": "Cleansers",
+    "price": 46,
+    "image": "https://source.unsplash.com/800x600/?cleansing,oil,skincare",
+    "description": "Dissolves makeup while nourishing skin"
+  },
+  {
+    "id": 25,
+    "name": "Micellar Water Pure",
+    "category": "Cleansers",
+    "price": 22,
+    "image": "https://source.unsplash.com/800x600/?micellar,water,skincare",
+    "description": "Gentle makeup remover and cleanser"
+  },
+  {
+    "id": 26,
+    "name": "Bright C Serum",
+    "category": "Serums",
+    "price": 82,
+    "image": "https://source.unsplash.com/800x600/?vitamin,serum,skincare",
+    "description": "Vitamin C concentrate for luminosity"
+  },
+  {
+    "id": 27,
+    "name": "Hyaluronic Boost",
+    "category": "Serums",
+    "price": 64,
+    "image": "https://source.unsplash.com/800x600/?hyaluronic,serum,skincare",
+    "description": "Intense hydration for plump skin"
+  },
+  {
+    "id": 28,
+    "name": "Retinol Renewal",
+    "category": "Serums",
+    "price": 88,
+    "image": "https://source.unsplash.com/800x600/?retinol,serum,skincare",
+    "description": "Night serum to improve texture and tone"
+  },
+  {
+    "id": 29,
+    "name": "Collagen Booster Cream",
+    "category": "Moisturizers",
+    "price": 95,
+    "image": "https://source.unsplash.com/800x600/?collagen,cream,skincare",
+    "description": "Firming cream to reduce visible lines"
+  },
+  {
+    "id": 30,
+    "name": "Clarifying Toner",
+    "category": "Toners",
+    "price": 31,
+    "image": "https://source.unsplash.com/800x600/?clarifying,toner,skincare",
+    "description": "Refines pores and balances oil"
+  },
+  {
+    "id": 31,
+    "name": "Pore Minimizer Serum",
+    "category": "Serums",
+    "price": 58,
+    "image": "https://source.unsplash.com/800x600/?pore,serum,skincare",
+    "description": "Lightweight formula to refine skin texture"
+  },
+  {
+    "id": 32,
+    "name": "Gentle Peel",
+    "category": "Peels",
+    "price": 50,
+    "image": "https://source.unsplash.com/800x600/?peel,skincare",
+    "description": "Mild chemical peel for brighter skin"
+  },
+  {
+    "id": 33,
+    "name": "Soothing Sheet Mask",
+    "category": "Masks",
+    "price": 12,
+    "image": "https://source.unsplash.com/800x600/?sheet,mask,skincare",
+    "description": "Single-use calming and hydrating mask"
+  },
+  {
+    "id": 34,
+    "name": "Overnight Sleep Mask",
+    "category": "Masks",
+    "price": 60,
+    "image": "https://source.unsplash.com/800x600/?sleep,mask,skincare",
+    "description": "Hydrating overnight mask for renewal"
+  },
+  {
+    "id": 35,
+    "name": "Essence of Dew",
+    "category": "Essences",
+    "price": 44,
+    "image": "https://source.unsplash.com/800x600/?essence,skincare",
+    "description": "Light essence to prep skin for treatment"
+  },
+  {
+    "id": 36,
+    "name": "Protective Day Cream SPF 40",
+    "category": "Sun Care",
+    "price": 54,
+    "image": "https://source.unsplash.com/800x600/?spf,daycream,skincare",
+    "description": "Daily moisturizer with broad spectrum SPF"
+  },
+  {
+    "id": 37,
+    "name": "Makeup Remover Balm",
+    "category": "Cleansers",
+    "price": 41,
+    "image": "https://source.unsplash.com/800x600/?makeup,remover,balm",
+    "description": "Melting balm that cleanses without stripping"
+  },
+  {
+    "id": 38,
+    "name": "Radiant Night Cream",
+    "category": "Night Care",
+    "price": 85,
+    "image": "https://source.unsplash.com/800x600/?night,cream,skincare",
+    "description": "Nourishing night cream for overnight repair"
+  },
+  {
+    "id": 39,
+    "name": "Mineral Tinted SPF",
+    "category": "Sun Care",
+    "price": 59,
+    "image": "https://source.unsplash.com/800x600/?tinted,spf,makeup",
+    "description": "Light coverage plus sun protection"
+  },
+  {
+    "id": 40,
+    "name": "Clarifying Clay Mask",
+    "category": "Masks",
+    "price": 37,
+    "image": "https://source.unsplash.com/800x600/?clay,mask,skincare",
+    "description": "Detoxifying mask to absorb impurities"
+  },
+  {
+    "id": 41,
+    "name": "Smoothing Facial Scrub",
+    "category": "Exfoliants",
+    "price": 33,
+    "image": "https://source.unsplash.com/800x600/?facial,scrub,skincare",
+    "description": "Polishes away dull surface cells"
+  },
+  {
+    "id": 42,
+    "name": "Skin Barrier Repair",
+    "category": "Moisturizers",
+    "price": 77,
+    "image": "https://source.unsplash.com/800x600/?barrier,cream,skincare",
+    "description": "Strengthens and soothes compromised skin"
+  },
+  {
+    "id": 43,
+    "name": "Instant Glow Drops",
+    "category": "Serums",
+    "price": 46,
+    "image": "https://source.unsplash.com/800x600/?glow,drops,skincare",
+    "description": "Add-on drops to boost radiance"
+  },
+  {
+    "id": 44,
+    "name": "Cooling Eye Gel",
+    "category": "Eye Care",
+    "price": 29,
+    "image": "https://source.unsplash.com/800x600/?eye,gel,skincare",
+    "description": "Soothes and refreshes tired eyes"
+  },
+  {
+    "id": 45,
+    "name": "Makeup Setting Spray",
+    "category": "Makeup",
+    "price": 26,
+    "image": "https://source.unsplash.com/800x600/?setting,spray,makeup",
+    "description": "Locks makeup with a dewy finish"
+  },
+  {
+    "id": 46,
+    "name": "Purifying Charcoal Mask",
+    "category": "Masks",
+    "price": 35,
+    "image": "https://source.unsplash.com/800x600/?charcoal,mask,skincare",
+    "description": "Deep cleanse to clarify pores"
+  },
+  {
+    "id": 47,
+    "name": "Radiance Booster Oil",
+    "category": "Oils",
+    "price": 70,
+    "image": "https://source.unsplash.com/800x600/?radiance,oil,skincare",
+    "description": "Lightweight oil to enhance skin glow"
+  },
+  {
+    "id": 48,
+    "name": "Everyday BB Cream",
+    "category": "Makeup",
+    "price": 42,
+    "image": "https://source.unsplash.com/800x600/?bb,cream,makeup",
+    "description": "Sheer coverage with skincare benefits"
+  }
+]
